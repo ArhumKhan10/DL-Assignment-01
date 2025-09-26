@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+reports/
+*.ipynb_checkpoints/
+DL_Assignment1.pdf
+Dataset/annotations/
+Dataset/images/
+data/splits.json
